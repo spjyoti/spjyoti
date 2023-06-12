@@ -9,7 +9,7 @@
 - 📱 I am also intrested in Full stack Development and Data Science
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Youtube
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyansu-bhoi-472256217/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyoti-prakash-sahoo-862611225)
 - 😄 Pronouns: He/His
 
 
@@ -56,5 +56,5 @@ const Jyoti = {
 
 <p align = "center">
   
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/priyansu-bhoi-472256217/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jyoti-prakash-sahoo-862611225)
 
