@@ -1,6 +1,6 @@
 # Hey! This is Jyoti Prakash <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32">
 ![GitHub followers](https://img.shields.io/github/followers/spjyoti?label=Follow&style=social)
-![Visitors: spjyoti](https://visitor-badge.glitch.me/badge?page_id=spjyoti.spjyoti)
+
 
 <img align='right' src="https://media.giphy.com/media/3qYvlcgnIka1ayPbqB/source.gif" width="230">
 
